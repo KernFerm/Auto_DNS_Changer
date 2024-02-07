@@ -4,6 +4,8 @@ This is a simple batch script that changes the DNS settings on a Windows machine
 
 # YOU CAN USE THE .EXE TO RUN THIS APPLICATION
 
+# CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
+
 ## Usage
 
 1. Open a command prompt with administrative privileges.
