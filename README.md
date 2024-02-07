@@ -16,6 +16,9 @@ This is a simple batch script that changes the DNS settings on a Windows machine
 
 The script changes the DNS settings of the specified network interface to the DNS servers defined in the script. By default, it uses Google's public DNS servers (8.8.8.8 and 8.8.4.4).
 
+cloudflare 1.1.1.1
+1.0.0.1
+
 ## Configuration
 
 You can customize the script by changing the following variables:
