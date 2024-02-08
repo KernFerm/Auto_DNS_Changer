@@ -19,7 +19,7 @@ The script changes the DNS settings of the specified network interface to the DN
 
 # to edit .bat right click on the file , edit it in notepad ,  
 
-# see pic to change to cloudfare or any DNS server you want
+# see below how to change to cloudfare or any DNS server you want
 
 :: Change these to the DNS servers you want to use
 
