@@ -15,7 +15,9 @@ This is a simple batch script that changes the DNS settings on a Windows machine
 ## What it Does
 
 The script changes the DNS settings of the specified network interface to the DNS servers defined in the script. By default, it uses Google's public DNS servers (8.8.8.8 and 8.8.4.4).
-to edit .bat right click on the file , edit it in notepad ,  
+
+
+# to edit .bat right click on the file , edit it in notepad ,  
 
 # see pic to change to cloudfare or any DNS server you want
 
