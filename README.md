@@ -20,8 +20,12 @@ to edit .bat right click on the file , edit it in notepad ,
 # see pic to change to cloudfare or any DNS server you want
 
 :: Change these to the DNS servers you want to use
-SET DNS1=1.1.1.1   <-change this was google default but i chagned it cause cloudflare better in my eyes but yall change change it to whatever has to be a real DNS server
-SET DNS2=1.0.0.1    <-change this was google default but i chagned it cause cloudflare better in my eyes but yall change change it to whatever has to be a real DNS server
+
+
+# SET DNS1=1.1.1.1   <-change this was google default but i chagned it cause cloudflare better in my eyes but yall change change it to whatever has to be a real DNS server
+--
+--
+# SET DNS2=1.0.0.1    <-change this was google default but i chagned it cause cloudflare better in my eyes but yall change change it to whatever has to be a real DNS server
 
 cloudflare 1.1.1.1
 1.0.0.1
