@@ -1,3 +1,5 @@
+- ## there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+
 # Auto DNS Changer
 
 This is a simple batch script that changes the DNS settings on a Windows machine.
